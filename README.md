@@ -1,4 +1,4 @@
-# C++ Data Structures & Algorithms Repository
+# Data Structures & Algorithms Repository
 
 Welcome to this **professional C++ Data Structures & Algorithms repository**. This repository serves as a comprehensive collection of clean, modular, and well-documented implementations of fundamental data structures commonly studied in standard online courses and university curricula.
 
